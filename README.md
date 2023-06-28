@@ -14,3 +14,6 @@ For more details please refer to [Project: Sign-up Form](https://www.theodinproj
 2. Project Odin logo provided by Project Odin. 
 
 3. I used [Bubblegum Sans](https://fonts.google.com/specimen/Bubblegum+Sans) for this project. 
+
+## Future updates
+- [ ] Responsive design for mobile use
